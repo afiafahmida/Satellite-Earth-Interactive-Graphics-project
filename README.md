@@ -4,7 +4,7 @@ The drawn satellite revolves around the earth. It has two types of interaction: 
 
 # How to run the project:
 Please ensure node.js is installed in you device. "npm" is needed to run the html file.
-Open the project in a platform. For my case I did it in vscode. Open your terminal and install three.js and vite by the two prompts:
+Open the project in a platform. For my case I did it in vscode. Open your terminal and install three.js and vite by the following two prompts:
 
 npm install --save three
 
